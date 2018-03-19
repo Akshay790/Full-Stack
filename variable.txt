@@ -1,0 +1,12 @@
+/
+variable is declear by "var".
+- variable name is only declear by a....z alphabate...not use numerical value,symbol,keywords(function,this)
+ -variable name is declear by only 8 chracter.
+ -In variable decleartion ,
+		* string chracter define to use "...."
+		* interger value define not use "...."				
+		* multiple variable is define to use  ,
+		
+- print
+* document.write(variable name)
+//
