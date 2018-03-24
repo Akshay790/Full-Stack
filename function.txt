@@ -1,0 +1,14 @@
+Function 
+Two type of function
+*Built In
+*User define
+-built in function is present in javascript library
+-built in function is no changes in name,code.
+example:
+document.write();
+.length =count total no.character.
+
+
+============
+user defined function is created & edit by programer.
+it ues by globaly.
